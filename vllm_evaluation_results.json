@@ -1,0 +1,9 @@
+{
+    "prompt": "<|im_start|>user\nConvert the following casual message into a formal academic sentence.\nInput: PagedAttention stops GPU memory from being wasted when generating text.<|im_end|>\n<|im_start|>assistant\n",
+    "base_model": "The software PagedAttention effectively prevents GPU memory from being inefficiently utilized during the generation of text.",
+    "adapters": {
+        "adapter_r4": "PagedAttention effectively prevents GPU memory leaks during the generation of textual data by ensuring that the allocated memory is reused efficiently.",
+        "adapter_r8": "PagedAttention effectively prevents GPU memory wastage by ensuring that only necessary model parameters are loaded into memory during text generation.",
+        "adapter_r16": "PagedAttention effectively prevents GPU memory wastage during text generation by ensuring that only necessary data is retained in memory."
+    }
+}
