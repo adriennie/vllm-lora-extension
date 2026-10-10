@@ -1,4 +1,0 @@
-Rank (r),Trainable Params,Trainable (%),Training Time (s),Peak VRAM (GB),Final Training Loss
-4,544768,0.0353,55.5,6.55,2.4458
-8,1089536,0.0705,47.83,4.76,2.4438
-16,2179072,0.141,48.55,4.77,2.4248
