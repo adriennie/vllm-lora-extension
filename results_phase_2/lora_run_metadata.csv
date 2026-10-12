@@ -1,0 +1,9 @@
+Package,Version,CUDA_Version,GPU_Device
+torch,2.11.0+cu130,13.0,Tesla T4
+transformers,5.18.0,13.0,Tesla T4
+peft,0.21.1,13.0,Tesla T4
+datasets,4.8.5,13.0,Tesla T4
+accelerate,1.15.0,13.0,Tesla T4
+bitsandbytes,0.50.2,13.0,Tesla T4
+pynvml,13.0.1,13.0,Tesla T4
+torchao,0.18.0,13.0,Tesla T4
